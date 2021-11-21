@@ -42,6 +42,7 @@ export default class DataService {
 
 
     private sortByPossition(possition: WorkingPossition): Employee[] {
+        //feature comments
         /**
          * fixed critical problem
          */
